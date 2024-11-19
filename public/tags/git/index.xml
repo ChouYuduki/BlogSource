@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Git on Yuduki&#39;s Blog</title>
+        <link>https://ChouYuduki.github.io/tags/git/</link>
+        <description>Recent content in Git on Yuduki&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Yuduki&#39;s Blog</copyright>
+        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ChouYuduki.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>How To Use Git</title>
+        <link>https://ChouYuduki.github.io/p/how-to-use-git/</link>
+        <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://ChouYuduki.github.io/p/how-to-use-git/</guid>
+        <description>&lt;h3 id=&#34;1-initial-your-directory&#34;&gt;1. Initial your directory
+&lt;/h3&gt;&lt;p&gt;use this command to initial the current dir: &lt;code&gt;git init&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;then you can use this command to check your dir’s status: &lt;code&gt;git status&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-submit-your-files&#34;&gt;2. submit your files
+&lt;/h3&gt;&lt;p&gt;add all of your modifying: &lt;code&gt;git add .&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;if you want to retract your add, use this: &lt;code&gt;git reset&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;then your should tell git who you are: &lt;code&gt;git config --global [user.name](http://user.name) &amp;quot;[your name]&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;finally push your files: &lt;code&gt;git commit -m &amp;quot;[what you modified]&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-ignore-your-files&#34;&gt;3. ignore your files
+&lt;/h3&gt;&lt;p&gt;if these are some files you don’t want git to track, first create a file called &lt;code&gt;.gitignore&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;then add files’ name into this file&lt;/p&gt;
+&lt;blockquote&gt;
+    &lt;p&gt;&lt;p&gt;💡
+&lt;strong&gt;if you let git start tracking some file,
+it will keep tracking it,
+even you try to ignore it after tracking,
+so you have to let git stop tracking the file:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git rm --cached [file name]&lt;/code&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;4-add-branch&#34;&gt;4. add branch
+&lt;/h3&gt;&lt;p&gt;check now all of branches in this directory: &lt;code&gt;git branch&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;you can use the command to create new branch: &lt;code&gt;git branch [branch name]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;then switch to the branch &lt;code&gt;git checkout [branch name]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;if you want to switch back to the main branch: &lt;code&gt;git checkout master&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;if you want to merge the branch to your main branch: &lt;code&gt;git merge [branch name]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;if you want to delete the branch: &lt;code&gt;git branch -d [branch name]&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;5-submit-to-github&#34;&gt;5. submit to github
+&lt;/h3&gt;&lt;p&gt;first create a new repository in github, and get it’s link:&lt;/p&gt;
+&lt;p&gt;in terminal tell where is your repository:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git remote add origin [https://github.com/link/....git]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;then push your directory:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git push --set-upstream origin master&lt;/code&gt; or &lt;code&gt;git push -u origin master&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;here github may let you input your username and pwd,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;But This Password is NOT your github login password!!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;go to github &lt;code&gt;setting &amp;gt; Developer Settings &amp;gt; Personal access tokens&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;and remember to tickle all of below&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;then copy your personal access tokens, it will be shown only once.&lt;/p&gt;
+&lt;p&gt;finally paste it on the password field of the terminal.&lt;/p&gt;
+&lt;p&gt;if you want github remember your info here, run this command line before you push:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git config credential.helper store&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;after the above, every time you want to push your modification, just use &lt;code&gt;git push&lt;/code&gt; without any additional parameters.&lt;/p&gt;
+&lt;h3 id=&#34;get-newest-version-of-this-repository&#34;&gt;get newest version of this repository
+&lt;/h3&gt;&lt;p&gt;use &lt;code&gt;git pull&lt;/code&gt; in this directory to get newest modificaiton&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

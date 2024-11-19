@@ -2,81 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Yuduki&#39;s Blog</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://ChouYuduki.github.io/tags/</link>
         <description>Recent content in Tags on Yuduki&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Yuduki&#39;s Blog</copyright>
-        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Emoji</title>
-        <link>http://localhost:1313/tags/emoji/</link>
+        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ChouYuduki.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Git</title>
+        <link>https://ChouYuduki.github.io/tags/git/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/emoji/</guid>
+        <guid>https://ChouYuduki.github.io/tags/git/</guid>
         <description></description>
         </item>
         <item>
-        <title>Css</title>
-        <link>http://localhost:1313/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Linux</title>
+        <link>https://ChouYuduki.github.io/tags/linux/</link>
+        <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/css/</guid>
+        <guid>https://ChouYuduki.github.io/tags/linux/</guid>
         <description></description>
         </item>
         <item>
-        <title>Html</title>
-        <link>http://localhost:1313/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Tutorial</title>
+        <link>https://ChouYuduki.github.io/tags/tutorial/</link>
+        <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/html/</guid>
+        <guid>https://ChouYuduki.github.io/tags/tutorial/</guid>
         <description></description>
         </item>
         <item>
-        <title>Markdown</title>
-        <link>http://localhost:1313/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Vim</title>
+        <link>https://ChouYuduki.github.io/tags/vim/</link>
+        <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/markdown/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>http://localhost:1313/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Privacy</title>
-        <link>http://localhost:1313/tags/privacy/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/privacy/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Shortcodes</title>
-        <link>http://localhost:1313/tags/shortcodes/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/shortcodes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tag With Whitespaces</title>
-        <link>http://localhost:1313/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/tag-with-whitespaces/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Text</title>
-        <link>http://localhost:1313/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/text/</guid>
+        <guid>https://ChouYuduki.github.io/tags/vim/</guid>
         <description></description>
         </item>
         

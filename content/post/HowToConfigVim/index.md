@@ -2,14 +2,15 @@
 date = '2024-11-19'
 title = 'How To Config Vim'
 author = 'Saka'
-description = "Guide to emoji usage in Hugo"
+description = "Help to Config NeoVim on Linux"
 categories = [
     "Original"
 ]
 tags = [
-    "emoji",
+    "Vim",
+    "Tutorial"
 ]
-image = "image.png"
+
 +++
 # Install Part
 

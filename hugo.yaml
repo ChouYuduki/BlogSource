@@ -31,7 +31,7 @@ services:
         id:
 
 pagination:
-    pagerSize: 3
+    pagerSize: 5
 
 permalinks:
     post: /p/:slug/
@@ -45,7 +45,7 @@ params:
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2024
         customText:
 
     dateFormat:
@@ -201,17 +201,17 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+        - identifier: Mail Me
+          name: Mail Me
+          url: mailto:chouyuduki@gmail.com
           params:
-              icon: brand-github
+              icon: email
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: Github
+          name: Github
+          url: https://github.com/ChouYuduki
           params:
-              icon: brand-twitter
+              icon: github
 
 related:
     includeNewer: true
