@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Yuduki&#39;s Blog</title>
-        <link>https://ChouYuduki.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on Yuduki&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Yuduki&#39;s Blog</copyright>
-        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ChouYuduki.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://ChouYuduki.github.io/about/</link>
+        <link>http://localhost:1313/about/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/about/</guid>
+        <guid>http://localhost:1313/about/</guid>
         <description>&lt;p&gt;Student&lt;br&gt;
 Living in Japan&lt;br&gt;
 Love JAnime, Syamisen, KaraOK&lt;/p&gt;
@@ -20,10 +20,10 @@ Love JAnime, Syamisen, KaraOK&lt;/p&gt;
         </item>
         <item>
         <title>Basic Operation of Vim</title>
-        <link>https://ChouYuduki.github.io/p/basic-operation-of-vim/</link>
+        <link>http://localhost:1313/p/basic-operation-of-vim/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/p/basic-operation-of-vim/</guid>
+        <guid>http://localhost:1313/p/basic-operation-of-vim/</guid>
         <description>&lt;p&gt;here is some basic operation of vim:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -137,10 +137,10 @@ Love JAnime, Syamisen, KaraOK&lt;/p&gt;
         </item>
         <item>
         <title>How To Config Vim</title>
-        <link>https://ChouYuduki.github.io/p/how-to-config-vim/</link>
+        <link>http://localhost:1313/p/how-to-config-vim/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/p/how-to-config-vim/</guid>
+        <guid>http://localhost:1313/p/how-to-config-vim/</guid>
         <description>&lt;h1 id=&#34;install-part&#34;&gt;Install Part
 &lt;/h1&gt;&lt;h3 id=&#34;install-neovim&#34;&gt;Install NeoVim
 &lt;/h3&gt;&lt;p&gt;first you need to try neovim, remember to install it’s newest version from github release (apt install is too old version)&lt;/p&gt;
@@ -201,10 +201,10 @@ Love JAnime, Syamisen, KaraOK&lt;/p&gt;
 &lt;h2 id=&#34;config-your-neovim&#34;&gt;Config Your Neovim
 &lt;/h2&gt;&lt;p&gt;enter &lt;code&gt;~/.config&lt;/code&gt; and make /nvim/init.vim&lt;/p&gt;
 &lt;p&gt;here is my config:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ChouYuduki.github.io/p/how-to-config-vim/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-config-vim/image.png&#34;
 	width=&#34;384&#34;
 	height=&#34;329&#34;
-	srcset=&#34;https://ChouYuduki.github.io/p/how-to-config-vim/image_hu7783130973091393979.png 480w, https://ChouYuduki.github.io/p/how-to-config-vim/image_hu10648799280334981504.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-config-vim/image_hu7783130973091393979.png 480w, http://localhost:1313/p/how-to-config-vim/image_hu10648799280334981504.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -373,10 +373,10 @@ Love JAnime, Syamisen, KaraOK&lt;/p&gt;
         </item>
         <item>
         <title>How To Use Git</title>
-        <link>https://ChouYuduki.github.io/p/how-to-use-git/</link>
+        <link>http://localhost:1313/p/how-to-use-git/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/p/how-to-use-git/</guid>
+        <guid>http://localhost:1313/p/how-to-use-git/</guid>
         <description>&lt;h3 id=&#34;1-initial-your-directory&#34;&gt;1. Initial your directory
 &lt;/h3&gt;&lt;p&gt;use this command to initial the current dir: &lt;code&gt;git init&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;then you can use this command to check your dir’s status: &lt;code&gt;git status&lt;/code&gt;&lt;/p&gt;
@@ -424,10 +424,10 @@ so you have to let git stop tracking the file:&lt;/strong&gt;&lt;/p&gt;
         </item>
         <item>
         <title>Tips of Config Envs in Linux</title>
-        <link>https://ChouYuduki.github.io/p/tips-of-config-envs-in-linux/</link>
+        <link>http://localhost:1313/p/tips-of-config-envs-in-linux/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/p/tips-of-config-envs-in-linux/</guid>
+        <guid>http://localhost:1313/p/tips-of-config-envs-in-linux/</guid>
         <description>&lt;h2 id=&#34;install-nodejs-via-binary-archive&#34;&gt;Install NodeJs via Binary Archive
 &lt;/h2&gt;&lt;p&gt;first download prebuilt binaries from NodeJs official website&lt;/p&gt;
 &lt;p&gt;then unzip it to &lt;strong&gt;any directory you wanna install&lt;/strong&gt;, remember the path [node path]&lt;/p&gt;
@@ -469,27 +469,27 @@ so you have to let git stop tracking the file:&lt;/strong&gt;&lt;/p&gt;
         </item>
         <item>
         <title>Archives</title>
-        <link>https://ChouYuduki.github.io/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://ChouYuduki.github.io/links/</link>
+        <link>http://localhost:1313/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/links/</guid>
+        <guid>http://localhost:1313/links/</guid>
         <description>&lt;p&gt;Related Links Here.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://ChouYuduki.github.io/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         

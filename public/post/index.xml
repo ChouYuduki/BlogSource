@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Yuduki&#39;s Blog</title>
-        <link>https://ChouYuduki.github.io/post/</link>
+        <link>http://localhost:1313/post/</link>
         <description>Recent content in Posts on Yuduki&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Yuduki&#39;s Blog</copyright>
-        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ChouYuduki.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Basic Operation of Vim</title>
-        <link>https://ChouYuduki.github.io/p/basic-operation-of-vim/</link>
+        <link>http://localhost:1313/p/basic-operation-of-vim/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/p/basic-operation-of-vim/</guid>
+        <guid>http://localhost:1313/p/basic-operation-of-vim/</guid>
         <description>&lt;p&gt;here is some basic operation of vim:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -126,10 +126,10 @@
         </item>
         <item>
         <title>How To Config Vim</title>
-        <link>https://ChouYuduki.github.io/p/how-to-config-vim/</link>
+        <link>http://localhost:1313/p/how-to-config-vim/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/p/how-to-config-vim/</guid>
+        <guid>http://localhost:1313/p/how-to-config-vim/</guid>
         <description>&lt;h1 id=&#34;install-part&#34;&gt;Install Part
 &lt;/h1&gt;&lt;h3 id=&#34;install-neovim&#34;&gt;Install NeoVim
 &lt;/h3&gt;&lt;p&gt;first you need to try neovim, remember to install it’s newest version from github release (apt install is too old version)&lt;/p&gt;
@@ -190,10 +190,10 @@
 &lt;h2 id=&#34;config-your-neovim&#34;&gt;Config Your Neovim
 &lt;/h2&gt;&lt;p&gt;enter &lt;code&gt;~/.config&lt;/code&gt; and make /nvim/init.vim&lt;/p&gt;
 &lt;p&gt;here is my config:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ChouYuduki.github.io/p/how-to-config-vim/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-config-vim/image.png&#34;
 	width=&#34;384&#34;
 	height=&#34;329&#34;
-	srcset=&#34;https://ChouYuduki.github.io/p/how-to-config-vim/image_hu7783130973091393979.png 480w, https://ChouYuduki.github.io/p/how-to-config-vim/image_hu10648799280334981504.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-config-vim/image_hu7783130973091393979.png 480w, http://localhost:1313/p/how-to-config-vim/image_hu10648799280334981504.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image&#34;
@@ -362,10 +362,10 @@
         </item>
         <item>
         <title>How To Use Git</title>
-        <link>https://ChouYuduki.github.io/p/how-to-use-git/</link>
+        <link>http://localhost:1313/p/how-to-use-git/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/p/how-to-use-git/</guid>
+        <guid>http://localhost:1313/p/how-to-use-git/</guid>
         <description>&lt;h3 id=&#34;1-initial-your-directory&#34;&gt;1. Initial your directory
 &lt;/h3&gt;&lt;p&gt;use this command to initial the current dir: &lt;code&gt;git init&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;then you can use this command to check your dir’s status: &lt;code&gt;git status&lt;/code&gt;&lt;/p&gt;
@@ -413,10 +413,10 @@ so you have to let git stop tracking the file:&lt;/strong&gt;&lt;/p&gt;
         </item>
         <item>
         <title>Tips of Config Envs in Linux</title>
-        <link>https://ChouYuduki.github.io/p/tips-of-config-envs-in-linux/</link>
+        <link>http://localhost:1313/p/tips-of-config-envs-in-linux/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/p/tips-of-config-envs-in-linux/</guid>
+        <guid>http://localhost:1313/p/tips-of-config-envs-in-linux/</guid>
         <description>&lt;h2 id=&#34;install-nodejs-via-binary-archive&#34;&gt;Install NodeJs via Binary Archive
 &lt;/h2&gt;&lt;p&gt;first download prebuilt binaries from NodeJs official website&lt;/p&gt;
 &lt;p&gt;then unzip it to &lt;strong&gt;any directory you wanna install&lt;/strong&gt;, remember the path [node path]&lt;/p&gt;

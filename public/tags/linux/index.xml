@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Linux on Yuduki&#39;s Blog</title>
-        <link>https://ChouYuduki.github.io/tags/linux/</link>
+        <link>http://localhost:1313/tags/linux/</link>
         <description>Recent content in Linux on Yuduki&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Yuduki&#39;s Blog</copyright>
-        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ChouYuduki.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Tips of Config Envs in Linux</title>
-        <link>https://ChouYuduki.github.io/p/tips-of-config-envs-in-linux/</link>
+        <link>http://localhost:1313/p/tips-of-config-envs-in-linux/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/p/tips-of-config-envs-in-linux/</guid>
+        <guid>http://localhost:1313/p/tips-of-config-envs-in-linux/</guid>
         <description>&lt;h2 id=&#34;install-nodejs-via-binary-archive&#34;&gt;Install NodeJs via Binary Archive
 &lt;/h2&gt;&lt;p&gt;first download prebuilt binaries from NodeJs official website&lt;/p&gt;
 &lt;p&gt;then unzip it to &lt;strong&gt;any directory you wanna install&lt;/strong&gt;, remember the path [node path]&lt;/p&gt;

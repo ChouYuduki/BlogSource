@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Git on Yuduki&#39;s Blog</title>
-        <link>https://ChouYuduki.github.io/tags/git/</link>
+        <link>http://localhost:1313/tags/git/</link>
         <description>Recent content in Git on Yuduki&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Yuduki&#39;s Blog</copyright>
-        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ChouYuduki.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>How To Use Git</title>
-        <link>https://ChouYuduki.github.io/p/how-to-use-git/</link>
+        <link>http://localhost:1313/p/how-to-use-git/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/p/how-to-use-git/</guid>
+        <guid>http://localhost:1313/p/how-to-use-git/</guid>
         <description>&lt;h3 id=&#34;1-initial-your-directory&#34;&gt;1. Initial your directory
 &lt;/h3&gt;&lt;p&gt;use this command to initial the current dir: &lt;code&gt;git init&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;then you can use this command to check your dir’s status: &lt;code&gt;git status&lt;/code&gt;&lt;/p&gt;

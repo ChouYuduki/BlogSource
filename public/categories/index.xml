@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Yuduki&#39;s Blog</title>
-        <link>https://ChouYuduki.github.io/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on Yuduki&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Yuduki&#39;s Blog</copyright>
-        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ChouYuduki.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Original</title>
-        <link>https://ChouYuduki.github.io/categories/original/</link>
+        <link>http://localhost:1313/categories/original/</link>
         <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/categories/original/</guid>
-        <description>&lt;img src="https://ChouYuduki.github.io/categories/original/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Original" /&gt;</description>
+        <guid>http://localhost:1313/categories/original/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/original/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Original" /&gt;</description>
         </item>
         <item>
         <title>Repost</title>
-        <link>https://ChouYuduki.github.io/categories/repost/</link>
+        <link>http://localhost:1313/categories/repost/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://ChouYuduki.github.io/categories/repost/</guid>
+        <guid>http://localhost:1313/categories/repost/</guid>
         <description></description>
         </item>
         
