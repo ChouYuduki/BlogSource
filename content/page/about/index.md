@@ -1,11 +1,11 @@
 ---
 title: About
-description: Self Intro
+description: Self Introduction
 date: '2024-11-19'
 aliases:
   - about-us
   - contact
-license: CC BY-NC-ND
+license: SAKA
 lastmod: '2024-11-19'
 menu:
     main: 
@@ -17,3 +17,5 @@ menu:
 Student  
 Living in Japan  
 Love JAnime, Syamisen, KaraOK
+
+
