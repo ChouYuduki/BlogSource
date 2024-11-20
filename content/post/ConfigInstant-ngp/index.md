@@ -33,6 +33,13 @@ finally add path to your bash file:
 export PATH=/usr/local/cuda-12.2/bin:$PATH
 ```
 
+### 3. Install OpenGL
+```Shell
+sudo apt install libgl-dev
+sudo apt install libglfw3-dev
+```
+then use official github page way to install
+
 
 
 
