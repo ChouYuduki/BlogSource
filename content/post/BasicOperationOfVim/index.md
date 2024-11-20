@@ -4,7 +4,7 @@ title = 'Basic Operation of Vim'
 author = 'Saka'
 description = "Some Operation of Vim"
 categories = [
-    "Original"
+    "Linux"
 ]
 tags = [
     "Vim",

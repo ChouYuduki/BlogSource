@@ -4,7 +4,7 @@ title = 'How To Use Git'
 author = 'Saka'
 description = "Git Tutorial"
 categories = [
-    "Original"
+    "Linux"
 ]
 tags = [
     "Git",
@@ -96,3 +96,7 @@ after the above, every time you want to push your modification, just use `git pu
 ### get newest version of this repository
 
 use `git pull` in this directory to get newest modificaiton
+
+### others
+`git clone --recursive`
+clone main repository and all of submodules at the same time

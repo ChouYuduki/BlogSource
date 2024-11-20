@@ -4,7 +4,7 @@ title = 'Tips of Config Envs in Linux'
 author = 'Saka'
 description = ""
 categories = [
-    "Original"
+    "Linux"
 ]
 tags = [
     "Linux",
