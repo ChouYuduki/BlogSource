@@ -5,10 +5,14 @@ links:
     description: 
     website: https://www.design.kyushu-u.ac.jp/
     image: https://www.design.kyushu-u.ac.jp/_cms_dir/wp-content/themes/kid2020/static/images/common/symbol.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+
+  - title: 在籍する留学生の方へ
+    description: 
+    website: https://www.isc.kyushu-u.ac.jp/intlweb/student
+    image: https://www.isc.kyushu-u.ac.jp/intlweb/assets/img/svg/logo.svg
+
+
+
 menu:
     main: 
         weight: -50
