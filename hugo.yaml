@@ -241,6 +241,8 @@ markup:
         renderer:
             ## Set to true if you have HTML content inside Markdown
             unsafe: true
+        extensions: 
+            math: true
     tableOfContents:
         endLevel: 4
         ordered: true
