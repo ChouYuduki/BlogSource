@@ -38,7 +38,7 @@ spherical harmonics can indeed be seen as a **3D basis function expansion:**
 * Spherical harmonic expansion: Uses $Y_l^m(θ,ϕ)$ as basis functions for the surface of a sphere.
 
 ### Hierarchical Sampling
-Coarse(粗い) Network and　Fine(細い) Net.
+Coarse(粗い) Network and Fine(細い) Net.
 Coarse sample is uniform(一様) sampling, which cannot sapling points of edge very clearly and will lead to issues of wasted sampling points in empty spaces ineffectively. So after coarse sampling, there is a fine samling, which sample more points in rapidly changed place, like edge.
 
 ### Representing a 3D space with a continuous field
