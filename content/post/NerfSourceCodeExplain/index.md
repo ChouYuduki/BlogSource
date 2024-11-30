@@ -49,11 +49,28 @@ The **position and orientation** of the camera are determined by its **extrinsic
 
 extrinsic matrix is also called w2c(world-to-camera) matrix.
 
+---
+
 the inverse matrix(逆行列) of w2c is c2w matrix, which is widely used in Nerf.  
 
 the function of c2w is transform points from camera axis to world axis.
 
 $$\begin{bmatrix} R & T\\\ 0 & 1\end{bmatrix} = \begin{bmatrix} r11 & r12 & r13 & t1 \\\ r21 & r22 & r23 & t2 \\\ r31 & r32 & r33 & t3 \\\ 0 & 0 & 0 & 1  \end{bmatrix}$$ 
 
+---
 
+the intrinsic matrix of camera K is below:
+ 
 
+$$\begin{bmatrix}f_x & 0 & c_x\\\ 0 & f_y & c_y\\\ 0 & 0 & 1 \end{bmatrix}$$
+
+$f_x$ and $f_y$ represent the vertical focal length and horizontal focal length
+
+## How to Get Camera parameters
+
+In Nerf, Intrinsic and Extrinsic parameters should be given before you start, but how can we get these parameters?
+
+Well, there are two ways, the first way is using data from rendering software like blender.  
+The second way is using real data from our own real camera.
+
+there are some tech help us, such as COLMAP: [ColMap Link](https://colmap.github.io/)
