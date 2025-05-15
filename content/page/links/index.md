@@ -1,6 +1,28 @@
 ---
 title: Links
 links:
+
+  - title: Campusmate-J　
+    description: 
+    website: https://ku-portal.kyushu-u.ac.jp/campusweb/top.do
+    image: https://ku-portal.kyushu-u.ac.jp/campusweb/img/design01/mail_2_70.png
+
+  - title: 九州大学就職支援システム
+    description: 
+    website: https://www2.kyujin-navi.com/GAKUGAI/login/saml/sso/gakunin
+    image: https://www2.kyujin-navi.com/J-Net/img/icon_menu/icon_menu_005.svg 
+
+  - title: 365 Homepage
+    description: 
+    website: https://ci.iii.kyushu-u.ac.jp/365/login
+    image:
+
+  - title: Kyushu-u MailBox
+    description: 
+    website: https://outlook.office.com/kyushu-u.ac.jp
+    image: https://res.public.onecdn.static.microsoft/assets/mail/illustrations/noMailSelected/v2/light.svg
+
+
   - title: Kyushu University School of Design
     description: 芸術工学ホームページ
     website: https://www.design.kyushu-u.ac.jp/
@@ -10,16 +32,6 @@ links:
     description: 
     website: https://www.isc.kyushu-u.ac.jp/intlweb/student
     image: https://www.isc.kyushu-u.ac.jp/intlweb/assets/img/svg/logo.svg
-
-  - title: 芸工アプリ
-    description: 
-    website: https://geiko.app/
-    image: https://geiko.app/wp-content/uploads/2018/11/geikoapp-logo-H01-white.png
- 
-  - title: Invitation to Kyushu University
-    description: 
-    website: https://isc.kyushu-u.ac.jp/invitation/ja/support/
-    image: https://www.kyushu-u.ac.jp/contents_designer/widgets/image_loader/PageManagementTranslate/127/admin_page_managements/c2_text_image/fd9d323f6a3a058185e0d71f82616bb9/basics/pc%7Cpage
 
   - title: 芸術工学図書館
     description: 
@@ -31,10 +43,6 @@ links:
     website: https://std.design.kyushu-u.ac.jp/education/
     image: 
   
-  - title: Campusmate-J　
-    description: 
-    website: https://ku-portal.kyushu-u.ac.jp/campusweb/top.do
-    image: 
 
 menu:
     main: 
