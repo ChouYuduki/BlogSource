@@ -60,6 +60,10 @@ c h <>
 
 # find something
 f
+
+# find a letter
+f [letter you want to find]
+
 # delete until =  
 d f =
 
