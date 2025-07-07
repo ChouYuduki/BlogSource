@@ -13,18 +13,17 @@ tags = [
 
 +++
 
-**最新バーションのGaussian Splattingのエラー：**
+**最新版のGaussian Splattingでのエラー：**
 ```
 TypeError: GaussianRasterizationSettings.__new__() missing 1 required positional argument: 'antialiasing'
 
 ```
-原因はGaussian Splattingの更新のせいです。
+それはモデルの更新によるものです。
 
 ---
 ### 解決方法
-このエラーに対して：
-gaussian_renderer/int.pyのコードにこれを加えて：
-antialiasing=True
+このエラーを解決するには：  
+`gaussian_renderer/int.py`のコードに`antialiasing=True`を増加してください：
 
 ```Python
 raster_settings = GaussianRasterizationSettings(
@@ -43,7 +42,7 @@ debug=False，
 **antialiasing=True**
 ```
 
-出力データも改正すべき、もう一つ_を加えて：
+出力データも修正すべき：
 ```Python
 rendered_image, radii, _ = rasterizer(
 ```
