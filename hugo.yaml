@@ -31,7 +31,7 @@ services:
         id:
 
 pagination:
-    pagerSize: 5
+    pagerSize: 7
 
 permalinks:
     post: /p/:slug/
@@ -73,7 +73,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
+            shortname: yuduki-blog
             apiUrl:
             apiKey:
             admin:

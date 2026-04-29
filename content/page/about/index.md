@@ -1,24 +1,32 @@
 ---
 title: About
 description: Self Introduction
-date: '2024-11-19'
+readingTime: false
 aliases:
   - about-us
   - contact
 license: SAKA
-lastmod: '2024-11-19'
+lastmod: '2026-04-28'
 menu:
     main: 
         weight: -90
         params:
             icon: user
 ---
+中国🇨🇳出身、日本国籍🎌取得に向けて努力中<br>
 
-こんにちは、サカと申します。  
-今留学生として、福岡市住んでいます。  
-よろしくお願いします！  
+**履歴**<br>
+東京勤務予定 ( 2027.04 -  )<br>
 
-好きなアニメは[**葬送のフリーレン**](https://ja.wikipedia.org/wiki/%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3)です。
+◽️**九州大学** ( 2025.04 - 2027.03 )<br>
+　*修士　芸術工学　GPA: 3.9/4.0*
+
+◽️**上海大学** ( 2020.09 - 2024.06 )<br>
+　*学部　Computer Science　GPA: 3.5/4.0*
+
+────────
+
+好きなアニメ作品：[**WHITE ALBUM**](https://ja.wikipedia.org/wiki/WHITE_ALBUM)
 
 
 
