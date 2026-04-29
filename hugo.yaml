@@ -25,7 +25,7 @@ hasCJKLanguage: false
 services:
     # Change it to your Disqus shortname before using
     disqus:
-        shortname: "hugo-theme-stack"
+        shortname: "yuduki-blog"
     # GA Tracking ID
     googleAnalytics:
         id:
@@ -73,7 +73,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: yuduki-blog
+            shortname: 
             apiUrl:
             apiKey:
             admin:
@@ -201,17 +201,23 @@ menu:
     main: []
 
     social:
-        - identifier: Mail Me
-          name: Mail Me
-          url: mailto:chouyuduki@gmail.com
+        - identifier: Linkedin
+          name: Linedin
+          url: https://www.linkedin.com/in/%E9%88%BA%E5%A5%87-%E5%91%A8-b69b173ab/
           params:
-              icon: email
+              icon: brand-linkedin
 
         - identifier: Github
           name: Github
           url: https://github.com/ChouYuduki
           params:
-              icon: github
+              icon: brand-github
+
+        - identifier: Instagram
+          name: Instagram
+          url: https://www.instagram.com/shuyuduki/
+          params:
+              icon: brand-instagram
 
 related:
     includeNewer: true
