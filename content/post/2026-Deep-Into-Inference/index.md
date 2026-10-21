@@ -7,7 +7,6 @@ categories = [
 ]
 +++
 
-# 大模型推理參數（Inference Parameters）入門
 
 呼叫大型語言模型（LLM）時，可以透過一組**推理參數**調整模型「如何生成文字」。這些參數不會改變模型本身的知識或能力，只影響輸出的風格、長度與穩定性。
 
@@ -15,31 +14,31 @@ categories = [
 
 ---
 
-## 背景：模型是怎麼生成文字的？
+# Background：how the LLM model generates words?
 
-LLM 是**逐個 token 生成**的。每一步，模型都會為所有候選 token 計算一個機率分布，然後從中選出一個，接在已生成的文字後面，再繼續下一步。
+LLM is **token by token** generating the words. 每一步，模型都會為所有候選 token 計算一個機率分布，然後從中選出一個，接在已生成的文字後面，再繼續下一步。
 
 ```
-輸入：「今天天氣很」
-候選：好(45%)、熱(25%)、冷(15%)、糟(8%)、藍(0.1%)…
+入力：「今日の天気は」 
+　-> いい(45%)、暑い(25%)、寒い(15%)、悪い(8%)、青い(0.1%)…
 ```
 
 推理參數主要控制兩件事：
 
-1. **怎麼選**下一個 token（Temperature、Top P、Top K）
-2. **什麼時候停止**生成（Max tokens、Stop sequences）
+1. **How to select** the next token（Temperature、Top P、Top K）
+2. **When to stop** generating（Max tokens、Stop sequences）
 
 ---
 
-## 1. Temperature（溫度）
+## 1. Temperature　(温度)
+
 
 **作用：** 控制輸出的隨機程度。
 
-| 設定 | 效果 | 適用場景 |
-|------|------|----------|
-| 低（0～0.3） | 傾向選機率最高的詞，回答穩定、一致、保守 | 程式碼生成、資料抽取、事實問答、分類 |
-| 中（0.4～0.7） | 平衡穩定與自然 | 一般對話、摘要 |
-| 高（0.8～1.0+） | 低機率的詞也有機會被選，更多樣、有創意，但更容易出錯或離題 | 創意寫作、腦力激盪、文案發想 |
+| 設定 | 效果  |
+|------|---------|
+| Lower Value（0～0.3） | the model almost always picks the most likely next word. |
+| Higher Value（0.7～1.0） | the model is free to pick less-likely words. | 
 
 **原理：** Temperature 會「拉平」或「拉尖」機率分布。
 - 溫度低 → 高機率的詞更突出，幾乎總被選中
